@@ -12,8 +12,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <!-- jar 版本设置 -->
-        <junit-version>4.11</junit-version>
-        <spring-version>4.2.4.RELEASE</spring-version>
+        <junit-version>4.12</junit-version>
+        <spring-version>4.3.17.RELEASE</spring-version>
     </properties>
 
     <description>
@@ -30,9 +30,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:brianway/spring-learning.git</connection>
-        <developerConnection>scm:git:git@github.com:brianway/spring-learning.git</developerConnection>
-        <url>git@github.com:brianway/spring-learning.git</url>
+        <connection>scm:git:git@github.com:xufengzhu113/spring-learning.git</connection>
+        <developerConnection>scm:git:git@github.com:xufengzhu113/spring-learning.git</developerConnection>
+        <url>git@github.com:xufengzhu113/spring-learning.git</url>
         <tag>HEAD</tag>
     </scm>
 
